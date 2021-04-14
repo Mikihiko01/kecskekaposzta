@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+.formazas{
+    border: 2pt solid red;
+    cursor: grab;
+}
